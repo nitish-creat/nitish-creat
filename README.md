@@ -29,12 +29,12 @@
 ```typescript
 const nitish = {
   name      : "Nitish Rana",
-  role      : "Frontend Developer 🚀",
+  role      : "Frontend Developer ",
   location  : "India 🇮🇳",
   email     : "nitishrana2242006@gmail.com",
   currentProject : "Arise",
-  lookingFor     : "Collaborators on University Management System",
-  funFact        : "I turn ☕ coffee into beautiful UIs",
+  lookingFor     : "Collaborators on Arise",
+  funFact        : "I turn coffee into beautiful UIs",
   availableFor   : ["Freelance", "Open Source", "Collaboration"],
 };
 ```
