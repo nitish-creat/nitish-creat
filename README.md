@@ -166,8 +166,6 @@ const nitish = {
   <img alt="github-snake" src="https://raw.githubusercontent.com/nitish-creat/nitish-creat/output/github-snake.svg" />
 </picture>
 
-> ⚠️ The snake animation needs a GitHub Action to generate. [Follow this guide](https://github.com/Platane/snk) to enable it in your profile repo.
-
 </div>
 
 ---
