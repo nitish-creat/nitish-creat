@@ -196,23 +196,9 @@ Flask + ChromaDB + Ollama pipeline that answers questions on Indian government p
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/7c3aed/nitish-creat" alt="Nitish's GitHub Contribution Chart" width="100%" />
+[![Nitish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nitish-creat&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true)](https://github.com/nitish-creat)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
-
-## 🏆 Highlights
-
-<div align="center">
-
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nitish-creat&label=Public%20Repos&query=$.public_repos&color=7c3aed&style=for-the-badge&labelColor=1e1b4b)
-![Followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nitish-creat&label=Followers&query=$.followers&color=a78bfa&style=for-the-badge&labelColor=1e1b4b)
-![Since](https://img.shields.io/badge/Coding%20Since-2024-f59e0b?style=for-the-badge&labelColor=1e1b4b)
-
-</div>
-
-> 💡 Note: `github-readme-activity-graph` and `github-profile-trophy` (free Vercel-hosted tools) occasionally return **402 errors** when their shared bandwidth quota runs out — that's on their end, not your README. The chart above (`ghchart.rshah.org`) is a lighter, more stable alternative. If a widget breaks again later, you can always self-host it via GitHub Actions for a permanent fix.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&section=header" width="100%"/>
 
