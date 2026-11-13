@@ -169,6 +169,16 @@ flowchart LR
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+<a href="https://github.com/nitish-creat" target="_blank">
+  <img alt="GitHub trophies" src="https://github-trophies.vercel.app/?username=nitish-creat&theme=radical&no-frame=false&no-bg=true&margin-w=4&margin-h=4&title=AchieveSuperRank,MultiLanguage,Organizations,Commits,Stars,PullRequest,Repositories,Followers,Issues&row=1&column=9" />
+</a>
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
